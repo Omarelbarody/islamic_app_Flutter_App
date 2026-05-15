@@ -16,3 +16,5 @@ This project is a Flutter-based mobile application focused on clean UI design, a
 
 #### Project Purpose
 - The goal of this project is to provide an accessible Islamic mobile application that allows users to listen to Quran recitations and Sunnah audio easily, with a focus on simplicity, usability, and performance.
+
+![image alt](https://github.com/Omarelbarody/islamic_app_Flutter_App/blob/b97e26d55d6fc5c484436b54760c1639bb539b2f/Quran.jpg)
